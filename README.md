@@ -1,2 +1,2 @@
 # AMAN
-The dataset of AMAN model
+Open source some datasets, and the code will be released later
